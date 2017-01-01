@@ -1,0 +1,35 @@
+{
+  "name": "lucky_material",
+  "version": "0.1.0",
+  "homepage": "http://lucky-byte.com",
+  "description": "react and material ui template",
+  "license": "MIT",
+  "private": false,
+  "author": "xiaohu.wu <xiaohu@lucky-byte.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucky-byte/lucky_material"
+  },
+  "bugs": {
+    "url": "https://github.com/lucky-byte/lucky_material/issues",
+    "email": "service@lucky-byte.com"
+  },
+  "keywords": [
+    "react",
+    "material ui",
+    "template"
+  ],
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
