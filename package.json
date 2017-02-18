@@ -1,17 +1,17 @@
 {
-  "name": "lucky_material",
+  "name": "web-portal",
   "version": "0.1.0",
-  "homepage": "http://lucky-byte.com",
+  "homepage": "https://lucky-byte.com",
   "description": "react and material ui template",
   "license": "MIT",
   "private": false,
   "author": "xiaohu.wu <xiaohu@lucky-byte.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucky-byte/lucky_material"
+    "url": "https://github.com/lucky-byte/web-portal.git"
   },
   "bugs": {
-    "url": "https://github.com/lucky-byte/lucky_material/issues",
+    "url": "https://github.com/lucky-byte/web-portal/issues",
     "email": "service@lucky-byte.com"
   },
   "keywords": [
@@ -23,7 +23,7 @@
     "react-scripts": "0.8.4"
   },
   "dependencies": {
-    "material-ui": "^0.16.6",
+    "material-ui": "^0.17.0",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-tap-event-plugin": "^2.0.1"
